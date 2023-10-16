@@ -14,8 +14,6 @@
 HTML, CSS, JavaScript, ECMAScript, React ~ Hooks ~ useState, useEffect
 
 #### Packages
-[Nano ID](https://www.npmjs.com/package/nanoid)
-
 [Contentful](https://www.npmjs.com/package/contentful)
 
 #### Deployment / Hosting
