@@ -18,10 +18,6 @@ HTML, CSS, JavaScript, ECMAScript, React ~ Hooks ~ useState, useEffect
 
 [Contentful](https://www.npmjs.com/package/contentful)
 
-
-#### API Endpoint
-Contentful Delivery API - https://app.contentful.com/
-
 #### Deployment / Hosting
 Netlify
 
